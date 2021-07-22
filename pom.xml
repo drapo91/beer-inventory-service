@@ -2,17 +2,17 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
+
     <parent>
-        <groupId>com.drapo</groupId>
-        <artifactId>brewery-bom</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <artifactId>sfg-brewery-bom</artifactId>
+        <groupId>com.github.sfg-beer-works</groupId>
+        <version>1.0.7</version>
     </parent>
 
-    <groupId>guru.springframework</groupId>
-    <artifactId>mssc-beer-inventory-service</artifactId>
+    <artifactId>beer-inventory-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>mssc-beer-inventory-service</name>
-    <description>MSSC Beer Inventory Service</description>
+    <name>beer-inventory-service</name>
+    <description>Beer Inventory Service</description>
 
     <dependencies>
         <dependency>

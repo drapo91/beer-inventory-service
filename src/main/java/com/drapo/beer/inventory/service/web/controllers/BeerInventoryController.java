@@ -2,7 +2,7 @@ package com.drapo.beer.inventory.service.web.controllers;
 
 import com.drapo.beer.inventory.service.repositories.BeerInventoryRepository;
 import com.drapo.beer.inventory.service.web.mappers.BeerInventoryMapper;
-import com.drapo.beer.inventory.service.web.model.BeerInventoryDto;
+import com.drapo.brewery.model.BeerInventoryDto;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;

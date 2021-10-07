@@ -1,4 +1,4 @@
-package com.drapo.beer.inventory.service.web.model;
+package com.drapo.brewery.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

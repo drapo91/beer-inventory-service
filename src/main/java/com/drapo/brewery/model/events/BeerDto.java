@@ -1,4 +1,4 @@
-package com.drapo.common.events;
+package com.drapo.brewery.model.events;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.AllArgsConstructor;

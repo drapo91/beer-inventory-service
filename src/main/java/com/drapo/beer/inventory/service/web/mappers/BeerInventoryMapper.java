@@ -1,7 +1,7 @@
 package com.drapo.beer.inventory.service.web.mappers;
 
 import com.drapo.beer.inventory.service.domain.BeerInventory;
-import com.drapo.beer.inventory.service.web.model.BeerInventoryDto;
+import com.drapo.brewery.model.BeerInventoryDto;
 import org.mapstruct.Mapper;
 
 /**

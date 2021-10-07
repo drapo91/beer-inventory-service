@@ -1,4 +1,4 @@
-package com.drapo.common.events;
+package com.drapo.brewery.model.events;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

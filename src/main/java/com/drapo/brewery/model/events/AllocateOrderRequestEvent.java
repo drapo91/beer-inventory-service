@@ -1,16 +1,15 @@
 package com.drapo.brewery.model.events;
 
-import com.drapo.brewery.model.BeerDto;
+import com.drapo.brewery.model.BeerOrderDto;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-@AllArgsConstructor
-@NoArgsConstructor
-@Builder
 @Data
-public class BeerEvent {
-
-    private BeerDto beerDto;
+@NoArgsConstructor
+@AllArgsConstructor
+@Builder
+public class AllocateOrderRequestEvent {
+    private BeerOrderDto beerOrderDto;
 }

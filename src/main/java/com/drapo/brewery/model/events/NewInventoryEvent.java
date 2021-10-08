@@ -1,5 +1,6 @@
 package com.drapo.brewery.model.events;
 
+import com.drapo.brewery.model.BeerDto;
 import lombok.NoArgsConstructor;
 
 @NoArgsConstructor
